@@ -1,7 +1,7 @@
 <p align="center" >
 <img height=150px src="https://i.pinimg.com/originals/c9/94/80/c99480d69c76ee45f3cebf1817288c22.gif" />
 </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Papyrus&size=40&pause=1000&color=21F7A7&center=true&vCenter=true&width=1000&height=70&lines=Hello+there!+I+am+Manasa+Mohapatra.;A+passionate+web+and+android+developer.;Welcome+to+my+Github+profile." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Papyrus&size=30&pause=1000&color=21F7A7&center=true&vCenter=true&width=1000&height=70&lines=Hello+there!+I+am+Manasa+Mohapatra.;A+passionate+web+and+android+developer.;Welcome+to+my+Github+profile." alt="Typing SVG" /></a>
 </p>
 <img align="right" width="250" src="https://img.freepik.com/free-vector/cute-astronaut-working-laptop-cartoon-vector-icon-illustration-science-technology-icon-isolated_138676-4634.jpg?w=2000">
 
